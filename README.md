@@ -1,11 +1,11 @@
-# Hi there 👋 I'm Vasily
+# Hi there 👋 I'm Ernest
 
-- 🇩🇪 I live in Berlin, Germany.
+- 🇩🇪 I live in Yerevan, Armenia.
 - 🐍 I'm currently open to job offers.
-- 🤖 I write code for [15+ years](https://www.linkedin.com/in/vas3k/), most of the time on Python, Go and JavaScript.
+- 🤖 I write code for [7+ years](https://www.linkedin.com/in/ernest0n/), most of the time on Python, Go and JavaScript.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✏️ I write articles on my blog (in Russian): [vas3k.blog](https://vas3k.blog) and sometimes translate them into English — [vas3k.com](https://vas3k.com)
-- ✉️ You can shoot me an email at [me@vas3k.ru](mailto:me@vas3k.ru).
+- ✉️ You can shoot me an email at [magatar136@gmail.om](mailto:magatar136@gmail.com).
 
 #### My CV: [Vasily Zubarev.pdf](https://raw.githubusercontent.com/vas3k/vas3k/master/cv.pdf)
 
