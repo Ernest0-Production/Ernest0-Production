@@ -6,12 +6,13 @@
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✉️ You can shoot me an email at [magatar136@gmail.om](mailto:magatar136@gmail.com) or telegram [@ernest0n](https://t.me/ernest0n).
 
-#### My CV: [Ernest Babayan.pdf](https://raw.githubusercontent.com/ernest0-Production/ernest0-Production/master/CV.pdf)
+#### My CV: [Ernest Babayan.pdf](https://raw.githubusercontent.com/ernest0-Production/ernest0-Production/master/cv.pdf)
 
 ## 🛠 My fancy badge area
 
 ![swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat-square)
 ![objc](https://img.shields.io/badge/Objective--C-000000?style=flat-square&logo=apple&logoColor=fff&logoSize=auto)
+![xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=fff&logoSize=auto&style=flat-square)
 
 
 ## 🐶 My pet-projects
