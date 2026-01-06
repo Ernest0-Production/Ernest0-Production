@@ -6,7 +6,7 @@
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✉️ You can shoot me an email at [magatar136@gmail.om](mailto:magatar136@gmail.com) or telegram [@ernest0n](https://t.me/ernest0n).
 
-#### My CV: [Ernest Babayan.pdf](https://raw.githubusercontent.com/ernest0-Production/ernest0-Production/master/cv.pdf)
+#### My CV: [Ernest Babayan.pdf](https://raw.githubusercontent.com/ernest0-Production/ernest0-Production/master/cv.pdf) ([or web page](https://ernest0-production.github.io/Resume/?lang=en))
 
 ## 🛠 My fancy badge area
 
@@ -14,6 +14,11 @@
 ![objc](https://img.shields.io/badge/Objective--C-000000?style=flat-square&logo=apple&logoColor=fff&logoSize=auto)
 ![bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&logoSize=auto&style=flat-square)
 ![ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&logoSize=auto&style=flat-square)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&logoSize=auto&style=flat-square)
+
+![reactivex](https://img.shields.io/badge/ReactiveX-B7178C?logo=reactivex&logoColor=fff&logoSize=auto&style=flat-square)
+![react](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=333&logoSize=auto&style=flat-square)
+
 
 ![fastlane](https://img.shields.io/badge/Fastlane-4EAA25?logo=fastlane&logoColor=fff&logoSize=auto&style=flat-square)
 ![homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=333&logoSize=auto&style=flat-square)
