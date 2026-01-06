@@ -12,7 +12,15 @@
 
 ![swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat-square)
 ![objc](https://img.shields.io/badge/Objective--C-000000?style=flat-square&logo=apple&logoColor=fff&logoSize=auto)
+![bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&logoSize=auto&style=flat-square)
+![ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&logoSize=auto&style=flat-square)
+
+![fastlane](https://img.shields.io/badge/Fastlane-4EAA25?logo=fastlane&logoColor=fff&logoSize=auto&style=flat-square)
+![homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=333&logoSize=auto&style=flat-square)
+
 ![xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=fff&logoSize=auto&style=flat-square)
+![cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=fff&logoSize=auto&style=flat-square)
+![jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&logoSize=auto&style=flat-square)
 
 
 ## 🐶 My pet-projects
