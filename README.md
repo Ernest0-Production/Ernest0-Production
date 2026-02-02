@@ -28,18 +28,7 @@
 
 ## 🐶 My pet-projects
 
-### [Declarative Layout Kit](https://github.com/ernest0-Production/DeclarativeLayoutKit)
-
-Declarative and type-safe framework for fast UI layout. I made it when Swift UI was relatively new and the idea arose to achieve similar experience when using UIKit for layout.
-I succeeded in doing so and incorporated it into several commercial projects as the primary layout framework.
-
-> ⚙️ Swift, UIKit, SwiftUI, Sourcery, SnapKit, Cocoapods, SPM
-
-### [Git For Raycast](https://www.raycast.com/ernest0n/git)
-
-This is a full-fledged and first Git GUI client for Raycast. With it, you can perform all basic operations with git repositories. I wrote it primarily for myself, because I realized that I want to achieve both a visually appealing GUI client and maximum performance through hotkeys, just like in the terminal.
-
-> ⚙️ TypeScript, Node.js, Git, Raycast SDK
+> Check out the pinned projects below 👇
 
 ## 🤝 Contact me
 
